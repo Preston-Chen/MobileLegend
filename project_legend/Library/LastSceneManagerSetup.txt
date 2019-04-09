@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_MobileLegend/Build/Scenes/ML_GameMaster.unity
+  isLoaded: 1
+  isActive: 1

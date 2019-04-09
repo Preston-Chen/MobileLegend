@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1796957412
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mobilelegend/scenes.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: mobilelegend/gameui.assetbundle
+      Dependencies: {}

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7bc9a7438a8454345be91cff5d12f103
+timeCreated: 1534317661
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZLanTingHeiS-M-GB
+  fontNames:
+  - FZLanTingHeiS-M-GB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
